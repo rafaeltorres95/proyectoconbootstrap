@@ -1,0 +1,23 @@
+{
+  "name": "proyectoconbootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss/style.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaeltorres95/proyectoconbootstrap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaeltorres95/proyectoconbootstrap/issues"
+  },
+  "homepage": "https://github.com/rafaeltorres95/proyectoconbootstrap#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
